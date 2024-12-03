@@ -12,7 +12,7 @@ export function Home() {
         className="absolute inset-0 z-0"
         style={{
           backgroundImage:
-            'url(https://images.unsplash.com/photo-1516914943479-89db7d9ae7f2?q=80&w=2070)',
+          url(/imagens/cilios.jpeg)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}

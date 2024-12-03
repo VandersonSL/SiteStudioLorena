@@ -64,7 +64,7 @@ export function About() {
         <div className="mt-16 grid md:grid-cols-2 gap-8 items-center">
           <div className="relative aspect-square">
             <img
-              src="https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=1000"
+                src="imagens/image.jpeg"
               alt="Nosso estúdio"
               className="rounded-lg object-cover w-full h-full"
             />
